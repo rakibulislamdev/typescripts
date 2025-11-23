@@ -32,3 +32,12 @@ export default function Home() {
 
 // object
 
+// let person = {
+//   name: "Ronaldo",
+//   age: 34,
+//   isCaptain: true
+// }
+
+// person.name = "tiger"
+
+
