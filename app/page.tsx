@@ -14,8 +14,21 @@ export default function Home() {
 // console.log(playerName)
 
 
-function multiply(a: number, b: number) {
-  return a * b
-}
+// function multiply(a: number, b: number) {
+//   return a * b
+// }
 
-console.log(multiply("sumit", 4))
+// console.log(multiply(5, 4))
+
+// array
+
+// let mixed = ["apple", 3, false, {}]
+
+// mixed.push({
+//   name: "Ronaldo",
+//   age: 34
+// })
+
+
+// object
+
