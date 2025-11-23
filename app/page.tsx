@@ -41,3 +41,15 @@ export default function Home() {
 // person.name = "tiger"
 
 
+// array 
+let a: string[] = []
+a.push("str")
+
+let b: number[] = []
+b.push(3)
+
+// union type 
+let c: (string | number)[] = []
+c.push("str")
+c.push(3)
+
