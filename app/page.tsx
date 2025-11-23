@@ -42,14 +42,46 @@ export default function Home() {
 
 
 // array 
-let a: string[] = []
-a.push("str")
+// let a: string[] = []
+// a.push("str")
 
-let b: number[] = []
-b.push(3)
+// let b: number[] = []
+// b.push(3)
 
-// union type 
-let c: (string | number)[] = []
-c.push("str")
-c.push(3)
+// // union type 
+// let c: (string | number)[] = []
+// c.push("str")
+// c.push(3)
+
+
+// object
+// let b: {
+//   name: string,
+//   age: number
+// }
+
+// let c: {
+//   name: string,
+//   age: number,
+//   adult: boolean
+// }
+
+
+// b = {
+//   name: "Ronaldo",
+//   age: 34,
+// }
+
+
+// c = {
+//   name: "Ronaldo",
+//   age: 34,
+//   adult: true
+// }
+
+
+// let d: object;
+
+// d = [1, 2, 3]
+
 
