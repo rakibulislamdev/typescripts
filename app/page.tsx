@@ -2,7 +2,7 @@
 
 export default function Home() {
   return (
-    <h2>Type scripts</h2>
+    <h2>My Type scripts</h2>
   );
 }
 
